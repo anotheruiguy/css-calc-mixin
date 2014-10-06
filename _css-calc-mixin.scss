@@ -6,7 +6,7 @@
 // This mixin takes some simple arguments:
 //   $attr = the attribute you want to calc
 //   $value = the calculated value in the expression
-//   $tb-property and $tb-property = setting these values to 0 will set either the Top and Bottom, or Left and Right to 0
+//   $tb-property and $lr-property = setting these values to 0 will set either the Top and Bottom, or Left and Right to 0
 //   $base = the core width that is the base of the expression
 //   $operator = use either -, +, * or /
 
